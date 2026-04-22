@@ -1,2 +1,21 @@
-[Privacy Policy]
-This app (Find Differences: Scenery) uses Google AdMob for advertisements. We do not maliciously collect personal data.
+Privacy Policy for Find Differences: Scenery
+
+This privacy policy applies to the Find Differences: Scenery app (hereby referred to as "Application") for mobile devices that was created by the Developer as a Free service. This service is intended for use "AS IS".
+
+Information Collection and Use
+The Application does not explicitly collect personal information. However, the Application uses third-party services that may collect information used to identify you.
+
+Link to the privacy policy of third-party service providers used by the Application:
+
+Google Play Services
+
+Google AdMob
+
+Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. This Application does not use these "cookies" explicitly. However, the Application may use third-party code and libraries (like Google AdMob) that use "cookies" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device.
+
+Changes to This Privacy Policy
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
+
+Contact Us
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
