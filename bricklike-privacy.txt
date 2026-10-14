@@ -1,0 +1,48 @@
+Privacy Policy for BrickLike
+
+This privacy policy applies to the BrickLike app (hereby referred to as "Application") for mobile devices that was created by the Developer (JunSS) as a free service with optional in-app purchases. This service is intended for use "AS IS".
+
+Information Collection and Use
+The Application does not explicitly collect personal information. Game progress and purchased in-game currency are stored only on your device. However, the Application uses third-party services that may collect information used to identify you, such as device identifiers (including the advertising ID), IP address and usage data.
+
+Third-party services used by the Application:
+- Google Play Services: https://policies.google.com/privacy
+- Google AdMob (advertising): https://support.google.com/admob/answer/6128543
+- Google Play Billing (in-app purchases): payments are processed by Google Play. The Developer does not receive your payment card details.
+
+Advertising and Consent
+The Application shows ads served by Google AdMob. Users in the European Economic Area, the United Kingdom and Switzerland are asked for consent before personalized ads are shown, and can change their choice at any time. You can also reset or opt out of personalized ads in your device's Google settings.
+
+Children
+The Application is not directed at children under 13, and the Developer does not knowingly collect personal information from them.
+
+Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time. You are advised to review this page periodically for any changes.
+
+Contact Us
+If you have any questions or suggestions about this Privacy Policy, please contact the Developer through the contact email listed on the Application's Google Play store page.
+
+
+BrickLike 개인정보처리방침
+
+이 개인정보처리방침은 개발자(JunSS)가 무료(선택적 인앱 결제 포함)로 제공하는 모바일 앱 BrickLike(이하 "앱")에 적용됩니다.
+
+정보 수집 및 이용
+앱은 개인정보를 직접 수집하지 않습니다. 게임 진행 상황과 구매한 게임 재화는 사용자의 기기에만 저장됩니다. 다만 앱이 사용하는 아래 제3자 서비스가 광고 ID 등 기기 식별자, IP 주소, 이용 정보를 수집할 수 있습니다.
+
+앱이 사용하는 제3자 서비스
+- Google Play 서비스: https://policies.google.com/privacy
+- Google AdMob(광고): https://support.google.com/admob/answer/6128543
+- Google Play 결제(인앱 결제): 결제는 Google Play가 처리하며, 개발자는 결제 카드 정보를 받지 않습니다.
+
+광고와 동의
+앱은 Google AdMob 광고를 표시합니다. 유럽경제지역, 영국, 스위스 사용자에게는 맞춤 광고 전에 동의를 요청하며, 언제든지 선택을 바꿀 수 있습니다. 기기의 Google 설정에서 맞춤 광고를 끄거나 광고 ID를 재설정할 수도 있습니다.
+
+아동
+앱은 만 13세 미만 아동을 대상으로 하지 않으며, 개발자는 아동의 개인정보를 고의로 수집하지 않습니다.
+
+변경
+이 개인정보처리방침은 변경될 수 있으니 주기적으로 확인해 주세요.
+
+문의
+개인정보처리방침에 관한 문의는 Google Play 스토어 페이지에 적힌 개발자 이메일로 보내 주세요.
